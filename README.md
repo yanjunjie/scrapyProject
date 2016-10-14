@@ -1,3 +1,5 @@
-# weblogic-dynamic-clusters
-commit
-wblogic 12c
+# python
+
+see
+
+![baidu](http://www.baidu.com/img/bdlogo.gif)
